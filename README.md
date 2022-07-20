@@ -1,8 +1,5 @@
 <div>
   <h3>Social</h3>
-  <a href="https://twitter.com/idvazio">
-    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=black"/>
-  </a>
   <a href="https://www.linkedin.com/in/rodrigo-tavares-/">
     <img src="https://img.shields.io/badge/linkedin-FFFFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
@@ -25,19 +22,4 @@ E objetivo dessa conta é compartilhar idéias e produzir algo útil para mim e 
 * Name: Rodrigo Tavares <br>
 * Age: 21 <br>
 * Living in: Americana - SP, Brazil <br>
-* Degree: Systems Analysis and Development - UNINTER - Through Sept. 2023 <br> 
-
-<!--
-**RodrigoSousaTavares/RodrigoSousaTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Degree: Systems Analysis and Development - UNINTER - (Through September - 2023) <br> 
