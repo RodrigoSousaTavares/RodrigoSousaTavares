@@ -8,12 +8,12 @@
 
 ### Welcome to my GitHub profile
 
-My name is Rodrigo, I'm 21 years old developer passionate about technology and I'm currently studying and building projects in backend development.
+My name is Rodrigo, I'm 21 years old developer passionate about technology and I'm currently studying and building projects.
 The purpose of this account is to share ideas and produce something useful for me and the developer community. <br/> </br>
 
 ### Bem vindo ao meu perfil do GitHub
 
-Meu nome é Rodrigo sou um desenvolvedor de 21 anos apaixonado por tecnologia e atualmente estou estudando e construindo projetos em desenvolvimento backend.
+Meu nome é Rodrigo sou um desenvolvedor de 21 anos apaixonado por tecnologia e atualmente estou estudando e construindo projetos.
 E objetivo dessa conta é compartilhar idéias e produzir algo útil para mim e para comunidade de desenvolvedores.
 
 
